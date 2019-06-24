@@ -7,3 +7,5 @@ driver.get('https://www.bom2buy.com')
 driver.find_element_by_link_text('登录').click()
 # driver.findElement(By.xpath("//a[@href='systemConfigAction.do?method=edit&id=40']"));
 
+
+
