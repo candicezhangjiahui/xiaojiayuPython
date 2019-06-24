@@ -1,12 +1,9 @@
 # -*- coding:utf-8 -*-
 from selenium import webdriver
-browser = webdriver.Chrome()
-browser.get('https://www.baidu.com')
-# print(browser.page_source) //browser.page_source是获取网页的全部html
-# browser.close()
-print(browser.title)  # 获取网页的title
-browser.quit()
-
-
-
+# from selenium.webdriver.common.keys import Keys
+driver =webdriver.Chrome()
+driver.implicitly_wait(10)
+driver.get('https://www.bom2buy.com')
+driver.find_element_by_link_text('登录').click()
+# driver.findElement(By.xpath("//a[@href='systemConfigAction.do?method=edit&id=40']"));
 
