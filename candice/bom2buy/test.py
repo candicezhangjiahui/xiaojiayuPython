@@ -13,12 +13,8 @@ driver.set_window_size(1266, 695)
 driver.find_element_by_id('email').click()
 driver.find_element_by_id('email').send_keys("candicezhangjiahui@126.com")
 driver.find_element_by_id("password").send_keys("zjh112233")
-driver.find_element(by=By.CLASS_NAME, value='ant-btn antd-pro-components-login-index-submit antd-pro-pages-user-login-submitButton ant-btn-primary ant-btn-lg')
-
-# driver.find_element_by_class_name("ant-btn antd-pro-components-login-index-submit antd-pro-pages-user-login-submitButton ant-btn-primary ant-btn-lg").click()
-# driver.find_element_by_css_selector(".ant-btn antd-pro-components-login-index-submit "
-#                                     "antd-pro-pages-user-login-submitButton ant-btn-primary ant-btn-lg").click()
-driver.find_element_by_class_name('ant-btn antd-pro-components-login-index-submit antd-pro-pages-user-login-submitButton ant-btn-primary ant-btn-lg').click()
+button_js="document.getElementsByClassName('ant-btn antd-pro-components-login-index-submit antd-pro-pages-user-login-submitButton ant-btn-primary ant-btn-lg')[0].click()"
+driver.execute_script(button_js)
 element = driver.find_element_by_link_text("BOM 列表")
 actions = ActionChains(driver)
 actions.move_to_element(element).perform()

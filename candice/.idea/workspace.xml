@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f465ad52-3dc0-4935-9f9e-c5c7069ac85a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bom2buy/enterprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bom2buy/test_enterprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ide/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ide/test_loginout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little file/fire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little file/unit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bom2buy/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/bom2buy/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/little file/12306test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/little file/test-selenium.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +15,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bom2buy/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="57">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="e#23#53#0" expanded="true" />
-                <marker date="1561969678091" expanded="true" signature="126:454" ph="..." />
+                <marker date="1561970343832" expanded="true" signature="126:454" ph="..." />
               </folding>
             </state>
           </provider>
@@ -140,7 +131,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="51" />
+    <option name="x" value="4" />
+    <option name="y" value="23" />
     <option name="width" value="1436" />
     <option name="height" value="826" />
   </component>
@@ -384,7 +376,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="51" width="1436" height="826" extended-state="0" />
+    <frame x="4" y="23" width="1436" height="826" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24310954" />
@@ -507,11 +499,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bom2buy/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="57">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding>
             <element signature="e#23#53#0" expanded="true" />
-            <marker date="1561969678091" expanded="true" signature="126:454" ph="..." />
+            <marker date="1561970343832" expanded="true" signature="126:454" ph="..." />
           </folding>
         </state>
       </provider>
