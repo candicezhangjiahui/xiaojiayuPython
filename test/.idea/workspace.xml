@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18c82f6e-e150-4bac-99f4-67ad6cf3cd83" name="Default Changelist" comment="" />
+    <list default="true" id="6780ee54-d3c0-4791-aa1f-f359f4538fe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../autotest/venv/file/verp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../autotest/venv/file/vert.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candice/bom2buy/pyut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/driver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/log/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/public/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/public/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/public/page_obj/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/report/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/src/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/src/test/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/src/test/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/src/test/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/src/test/suite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-framework/demo/src/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../candice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../candice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../candice/bom2buy/enterprise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../candice/bom2buy/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../candice/bom2buy/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../candice/bom2buy/test_enterprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../candice/bom2buy/test_enterprise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/test.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,14 +45,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="782" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -28,12 +60,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="TEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TEST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -42,7 +70,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,18 +89,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18c82f6e-e150-4bac-99f4-67ad6cf3cd83" name="Default Changelist" comment="" />
-      <created>1549958386967</created>
+      <changelist id="6780ee54-d3c0-4791-aa1f-f359f4538fe4" name="Default Changelist" comment="" />
+      <created>1564447809105</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549958386967</updated>
+      <updated>1564447809105</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="782" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24876674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

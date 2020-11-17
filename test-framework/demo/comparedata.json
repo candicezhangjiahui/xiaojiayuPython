@@ -1,0 +1,62 @@
+[
+    {
+        "Manufacturer Part Number": "CRCW060310K0FKEA",
+        "Description": "Fixed Resistor, Metal Glaze/thick Film, 0.1W, 10000ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603, CHIP, HALOGEN FREE AND ROHS COMPLIANT",
+        "Class": "Resistors",
+        "Category": "Fixed Resistors",
+        "fclInfer": {
+            "Resistance": "10000",
+            "Construction": "Chip",
+            "Category": "Fixed Resistors",
+            "Rated Power Dissipation (P)": "0.1",
+            "Working Voltage": "75",
+            "Tolerance": "1",
+            "Class": "Resistors",
+            "Size Code": "0603",
+            "Mounting Feature": "SURFACE MOUNT"
+        },
+        "modelInfer": {
+            "Category": "Fixed Resistors",
+            "Class": "Resistors",
+            "Mounting Feature": "SURFACE MOUNT",
+            "Package Style": "SMT",
+            "Rated Power Dissipation (P)": "0.1",
+            "Resistor Type": "FIXED RESISTOR",
+            "Size Code": "0603",
+            "Temperature Coefficient": "100",
+            "Working Voltage": "75"
+        },
+        "testFclInfer": "no match",
+        "testModelInfer": 1
+    },
+    {
+        "Manufacturer Part Number": "CRCW04021K00FKED",
+        "Description": "Fixed Resistor, Metal Glaze/thick Film, 0.063W, 1000ohm, 50V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0402, CHIP, HALOGEN FREE AND ROHS COMPLIANT",
+        "Class": "Resistors",
+        "Category": "Fixed Resistors",
+        "fclInfer": {
+            "Resistance": "500",
+            "Construction": "Chip",
+            "Category": "Fixed Resistors",
+            "Rated Power Dissipation (P)": "0.063",
+            "Working Voltage": "50",
+            "Tolerance": "100",
+            "Class": "Resistors catogory",
+            "Size Code": "0402",
+            "Mounting Feature": "SURFACE MOUNT"
+        },
+        "modelInfer": {
+            "Category": "Fixed Resistors",
+            "Class": "Resistors",
+            "Mounting Feature": "SURFACE MOUNT",
+            "Package Style": "SMT",
+            "Rated Power Dissipation (P)": "0.063",
+            "Resistor Type": "FIXED RESISTOR",
+            "Size Code": "0402",
+            "Temperature Coefficient": "100",
+            "Working Voltage": "50"
+        },
+        "testFclInfer": "no match",
+        "testModelInfer": 1
+    }
+]
